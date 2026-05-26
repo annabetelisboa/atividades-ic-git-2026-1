@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Durante a cadeira de Introdução à computação eu pude desenvolver diversas habilidades relacionadas ao desenvolvimento de jogos no code, contato com diferentes linguages da programação, como JavaScript. pude exercitar o desenvolvimento de sites em front-end e conheccer profissionais inspiradores de diversas áreas.
+=======
+Durante a cadeira de introdução a computação eu pude desenvolver habilidades como o desenvolvimento de jogos no code, programar em outras linguagens
+como javascript, e pude ter contato com profissionais de diversas áreas, tudo isso contribuiu para o desenvolvimento do meu caráter profissional.
+>>>>>>> 115137523c92753d1f811e6daa4222e2237c7081
